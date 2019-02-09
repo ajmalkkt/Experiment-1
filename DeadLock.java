@@ -1,3 +1,8 @@
+/**
+*Just a sample problem which I learned during my early days of programming using threads
+*This is standard solution which can be seen in many books...
+*
+*/
 public class Deadlock {
     static class Friend {
         private final String name;
